@@ -1,0 +1,7 @@
+---
+title: "Testing out how posts work"
+date: 2018-03-28 12:12:12 -0600
+layout:post
+---
+
+This is me making a new post 
